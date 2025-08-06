@@ -182,18 +182,11 @@ const JourneyAndContact: React.FC = () => {
                         Email
                       </p>
                       <p className="text-amber-700 text-sm">
-                        mrjakub15@gmail.com
+                        someoneelsses@gmail.com
                       </p>
                     </div>
                   </div>
-                  <div className="flex items-center space-x-3">
-                    <div>
-                      <p className="font-semibold text-amber-800 text-sm">
-                        Phone
-                      </p>
-                      <p className="text-amber-700 text-sm">+47 405 75 491</p>
-                    </div>
-                  </div>
+                  <div className="flex items-center space-x-3"></div>
                 </div>
 
                 <div className="pt-4 border-t border-orange-200">
