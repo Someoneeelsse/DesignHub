@@ -4,7 +4,7 @@ A modern, interactive web application demonstrating React and Three.js integrati
 
 This project showcases React + Three.js skills through a comprehensive fashion design platform. The application is built using Vite with 3D libraries including React Three Drei and React Three Fiber.
 
-**Note:** 3D models and components are sourced from the BlenderKit community collection. Credits and sources for all models are included below for reference.
+**Note:** 3D models and components are sourced from the BlenderKit community collection.
 
 Feel free to fork this project and adapt it for your own needs. The application includes email functionality using EmailJS - you'll need to create an environment file (.env) with the required variables as outlined in the setup instructions.
 
@@ -53,22 +53,17 @@ VITE_EMAILJS_PUBLIC_KEY=your_public_key
 ```
 src/
 ├── components/          # Reusable UI components
-│   ├── CollectionCard.tsx      # Collection display cards
-│   ├── Collections.tsx         # Collection showcase
-│   ├── GalleryCard.tsx         # Product display cards
-│   ├── ImageModal.tsx          # Modal image viewer
-│   ├── InfoPathCard.tsx        # Journey step cards
-│   ├── JourneyAndContact.tsx   # Contact form
-│   ├── PartsCollectionShowcase.tsx # Product showcase
-│   ├── Product3DViewer.tsx     # 3D model viewer
-│   └── SignatureCollections.tsx # Signature collections
+│   ├── Collections.tsx               # Collection showcase
+│   ├── GalleryCard.tsx               # Product display cards
+│   ├── ImageModal.tsx                # Modal image viewer
+│   ├── InfoPathCard.tsx              # Journey step cards
+│   ├── JourneyAndContact.tsx         # Contact form
+│   ├── PartsCollectionShowcase.tsx   # Product showcase
+│   └── Product3DViewer.tsx           # 3D model viewer
 ├── pages/              # Page components
 │   └── HomePage.tsx    # Main landing page
 ├── data/               # Product data
 │   └── products.json   # Product information
-├── models/             # 3D model components
-│   ├── Backpack.tsx    # Backpack 3D model
-│   └── Scene.tsx       # 3D scene setup
 └── main.tsx            # Application entry point
 ```
 
