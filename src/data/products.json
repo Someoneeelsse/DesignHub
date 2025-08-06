@@ -1,0 +1,128 @@
+{
+  "jackets": {
+    "jacket1": {
+      "name": "The Dropzone Jacket",
+      "description": "A structured, olive military zip-up with shoulder straps and dual chest pockets, tailored just enough to keep it clean.",
+      "size": "S, M, L, XL",
+      "price": 189.99,
+      "bestseller": false,
+      "imgPath": "/images/Collections/Jacket/YellowJacketCollection.png",
+      "modelPath": "/models/Jackets/YellowJacketCollection.glb",
+      "emoji": "🧥"
+    },
+    "jacket2": {
+      "name": "The Moss Circuit Bomber",
+      "description": "Padded olive-green shell with a soft inner lining and utility feel, effortlessly insulated for city wind or mountain edge.",
+      "size": "XS, S, M, L",
+      "price": 144.99,
+      "bestseller": false,
+      "imgPath": "/images/Collections/Jacket/BlueJacketCollection.png",
+      "modelPath": "/models/Jackets/BlueJacketCollection.glb",
+      "emoji": "🧥"
+    },
+    "jacket3": {
+      "name": "The Driftwood Bomber",
+      "description": "Shearling-lined suede jacket in a wind-aged tan that feels broken-in from the first wear, offering equal parts durability and café-side charm.",
+      "size": "M, L, XL, XXL",
+      "price": 219.99,
+      "bestseller": false,
+      "imgPath": "/images/Collections/Jacket/OrangeJacketCollection.png",
+      "modelPath": "/models/Jackets/OrangeJacketCollection.glb",
+      "emoji": "🧥"
+    },
+    "jacket4": {
+      "name": "The Black Signal Jacket",
+      "description": "Zip-up bomber in matte jet black, with a clean chest seam and a high collar that frames the face while cutting the wind.",
+      "size": "M, L, XL, XXL",
+      "price": 159.99,
+      "bestseller": false,
+      "imgPath": "/images/Collections/Jacket/GrayJacketCollection.png",
+      "modelPath": "/models/Jackets/GrayJacketCollection.glb",
+      "emoji": "🧥"
+    }
+  },
+  "backpacks": {
+    "backpack1": {
+      "name": "The Signalpack Ruck",
+      "description": "A camo-pattern tactical backpack with modular pouches, clip locks, and a boxy silhouette built for carry and command.",
+      "size": "40x50x60",
+      "price": 129.99,
+      "bestseller": false,
+      "imgPath": "/images/Collections/Backpack/YellowBackpackCollection.png",
+      "modelPath": "/models/Backpacks/YellowBackpackCollection.glb",
+      "emoji": "🎒"
+    },
+    "backpack2": {
+      "name": "The Blackstack Modular Pack",
+      "description": "A structured roll-top backpack with a minimalist silhouette, full-zip side access, and water-resistant build.",
+      "size": "35x45x55",
+      "price": 129.99,
+      "bestseller": false,
+      "imgPath": "/images/Collections/Backpack/BlueBackpackCollection.png",
+      "modelPath": "/models/Backpacks/BlueBackpackCollection.glb",
+      "emoji": "🎒"
+    },
+    "backpack3": {
+      "name": "The Nomad’s Grid Pack",
+      "description": "Blends corduroy, canvas, and vegan leather into a city-ready patchwork with just enough rebellion.",
+      "size": "30x40x50",
+      "price": 99.99,
+      "bestseller": false,
+      "imgPath": "/images/Collections/Backpack/OrangeBackpackCollection.png",
+      "modelPath": "/models/Backpacks/OrangeBackpackCollection.glb",
+      "emoji": "🎒"
+    },
+    "backpack4": {
+      "name": "The Ashloop Daypack",
+      "description": "Structured dual-tone canvas backpack with leather loop accents and hidden zippers, compact but statement-ready.",
+      "size": "30x40x50",
+      "price": 109.99,
+      "bestseller": false,
+      "imgPath": "/images/Collections/Backpack/GrayBackpackCollection.png",
+      "modelPath": "/models/Backpacks/GrayBackpackCollection.glb",
+      "emoji": "🎒"
+    }
+  },
+  "pants": {
+    "pants1": {
+      "name": "The Echo Grid Pants",
+      "description": "Slate-grey cargos with a slim taper, minimalist seams, and reinforced knees made for wear, not just style.",
+      "size": "XS, S, M, L, XL",
+      "price": 109.99,
+      "bestseller": false,
+      "imgPath": "/images/Collections/Pants/YellowPantsCollection.png",
+      "modelPath": "/models/Pants/YellowPantsCollection.glb",
+      "emoji": "👖"
+    },
+    "pants2": {
+      "name": "The Patcher Utility Joggers",
+      "description": "Midnight navy with cargo details, mission-inspired patchwork, and waxed brown shin guards for added grit.",
+      "size": "XS, S, M, L",
+      "price": 119.99,
+      "bestseller": false,
+      "imgPath": "/images/Collections/Pants/BluePantsCollection.png",
+      "modelPath": "/models/Pants/BluePantsCollection.glb",
+      "emoji": "👖"
+    },
+    "pants3": {
+      "name": "The Shadow Ridge Cargo Tapers",
+      "description": "Technical greeny, buggy cargos cut slim through the ankle with utility pockets and flexible seams, built to move but styled to stay sharp.",
+      "size": "S, M, L, XL",
+      "price": 99.99,
+      "bestseller": false,
+      "imgPath": "/images/Collections/Pants/OrangePantsCollection.png",
+      "modelPath": "/models/Pants/OrangePantsCollection.glb",
+      "emoji": "👖"
+    },
+    "pants4": {
+      "name": "The Studio Fade Denim",
+      "description": "Is a pair of dark-washed jeans with a subtle fade and a soft taper, cuffed for movement and polish.",
+      "size": "S, M, L, XL",
+      "price": 99.99,
+      "bestseller": false,
+      "imgPath": "/images/Collections/Pants/GrayPantsCollection.png",
+      "modelPath": "/models/Pants/GrayPantsCollection.glb",
+      "emoji": "👖"
+    }
+  }
+}
